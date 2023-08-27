@@ -41,7 +41,7 @@
 
 <div align=center>
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhji1127)](https://solved.ac/yhk6369/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhk6369)](https://solved.ac/yhk6369/)
 
 </div>
 
